@@ -5,7 +5,7 @@ A GitHub CLI extension for managing issue status in project boards.
 ## Installation
 
 ```bash
-gh extension install abdelhak/gh-issue-status
+gh extension install abakermi/gh-issue-status
 ```
 
 
